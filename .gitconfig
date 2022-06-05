@@ -3,8 +3,10 @@
 	name = iyogi
 	email = 37503072+iyogi2450@users.noreply.github.com
 
+# Set DefaultBranch name
 [init]
 	defaultBranch = master
 
+# Replace git:// with https://github.com/iyogi2450/
 [url "git@github.com:iyogi2450/"]
     insteadOf = "git://"

@@ -25,9 +25,6 @@ function peco-history-selection() {
 zle -N peco-history-selection
 bindkey '^R' peco-history-selection
 
-
-
-
 # nodebrew
 export PATH=/Users/sakai/.nodebrew/current/bin:$PATH
 
