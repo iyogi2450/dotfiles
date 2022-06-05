@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+	name = iyogi
+	email = 37503072+iyogi2450@users.noreply.github.com
+
+[init]
+	defaultBranch = master
+
+[url "git@github.com:iyogi2450/"]
+    insteadOf = "git://"
